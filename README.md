@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm a Linux System Administrator<br>Currently Upskilling in DevOps<br>
+Linux System Administrator<br>Currently Upskilling in DevOps<br>Working on Observability with ELK stack, Prometheus and 
+Grafana 
 
 
 ## 🌐 Socials:
